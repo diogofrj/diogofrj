@@ -52,21 +52,21 @@ BR  Rio de Janeiro - Rio de Janeiro.<br>
 </div>
 <hr>	
 <div style="display: inline_block">	
-	<a href = "https://www.credly.com/badges/a6dae31d-b40d-46ba-a97a-a0f90b70c302" target="_blank">	
-<img align="center" alt="VCP-DCV" height="100" width="100" src="https://images.credly.com/size/340x340/images/a5221adc-6edc-4145-a27c-8ec03466d8db/vmware_cert_VCPDCV2019.png">
-</a>
-<a href = "https://www.credly.com/badges/a6dae31d-b40d-46ba-a97a-a0f90b70c302" target="_blank">		
-  <img align="center" alt="LPIC3-304" height="100" width="100" src="https://diogofrj.files.wordpress.com/2020/07/lpic-3_304.jpg?w=1400&h=">
+	<a href = "https://cs.lpi.org/caf/Xamman/certification/verify/LPI000244279/ljpluebm4m" target="_blank">	
+		<img align="center" alt="LPIC-1" height="100" width="100" src="https://www.contrapunt.nl/cursus/images/LINUX/lpic1-logo-large.png">
 	</a>
-
+	<a href = "https://cs.lpi.org/caf/Xamman/certification/verify/LPI000244279/ljpluebm4m" target="_blank">	
+		<img align="center" alt="LPIC-2" height="100" width="100" src="https://www.certificacaolinux.com.br/wp-content/uploads/2020/02/lpic2-novo.png">
+	</a>
+	<a href = "https://cs.lpi.org/caf/Xamman/certification/verify/LPI000244279/ljpluebm4m" target="_blank">		
+  		<img align="center" alt="LPIC3-304" height="100" width="100" src="https://diogofrj.files.wordpress.com/2020/07/lpic-3_304.jpg?w=1400&h=">
+	</a>
 </div>
-
 <hr>	
 <div style="display: inline_block">	
 	<a href = "https://www.credly.com/badges/a6dae31d-b40d-46ba-a97a-a0f90b70c302" target="_blank">	
-<img align="center" alt="VCP-DCV" height="100" width="100" src="https://images.credly.com/size/340x340/images/a5221adc-6edc-4145-a27c-8ec03466d8db/vmware_cert_VCPDCV2019.png">
+		<img align="center" alt="VCP-DCV" height="100" width="100" src="https://images.credly.com/size/340x340/images/a5221adc-6edc-4145-a27c-8ec03466d8db/vmware_cert_VCPDCV2019.png">
+	</A>
 </div>	
-	
 <hr>
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogofernandesrj/)](https://www.linkedin.com/in/diogofernandesrj/)
