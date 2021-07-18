@@ -36,7 +36,7 @@ BR  Rio de Janeiro - Rio de Janeiro.<br>
 <a href = "https://www.credly.com/badges/a6dae31d-b40d-46ba-a97a-a0f90b70c302" target="_blank">		
   <img align="center" alt="LPIC3-304" height="100" width="100" src="https://diogofrj.files.wordpress.com/2020/07/lpic-3_304.jpg?w=1400&h=">
 	</a>
-<a href = "https://www.credly.com/badges/a6dae31d-b40d-46ba-a97a-a0f90b70c302" target="_blank">		
+<a href = "https://www.credly.com/badges/5c37c6b3-c407-4eb6-80ab-31448ff31080" target="_blank">		
   <img align="center" alt="Az-FUN" height="100" width="100" src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png">
 	</a>
 <a href = "https://www.credly.com/badges/6ea4e6e0-1814-4987-bb78-5a22ad90319c" target="_blank">		
