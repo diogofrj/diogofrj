@@ -40,7 +40,7 @@ BR  Rio de Janeiro - Rio de Janeiro.<br>
   <img align="center" alt="Az-FUN" height="100" width="100" src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png">
 	</a>
 <a href = "https://www.credly.com/badges/6ea4e6e0-1814-4987-bb78-5a22ad90319c" target="_blank">		
-  <img align="center" alt="Az-ADM" height="100" width="100" src="https://images.credly.com/size/340x340/images/35d18649-95c6-4c78-b07a-cfc1362318f3/azure-administrator-associate.png">
+  <img align="center" alt="Az-ADM" height="100" width="100" src="https://diogofrj.files.wordpress.com/2020/07/badge-azure-administrator-associate.png">
 	</a>
 <a href = "https://www.credly.com/badges/4e1cde72-a9fa-4fb6-8cb5-6cf6969d54a9" target="_blank">		
   <img align="center" alt="Az-ARK" height="100" width="100" src="https://images.credly.com/size/340x340/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png">
