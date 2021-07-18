@@ -29,12 +29,6 @@ BR  Rio de Janeiro - Rio de Janeiro.<br>
 
 ### :trophy:  Certifications
 <div style="display: inline_block">
-<a href = "https://www.credly.com/badges/a6dae31d-b40d-46ba-a97a-a0f90b70c302" target="_blank">	
-<img align="center" alt="VCP-DCV" height="100" width="100" src="https://images.credly.com/size/340x340/images/a5221adc-6edc-4145-a27c-8ec03466d8db/vmware_cert_VCPDCV2019.png">
-</a>
-<a href = "https://www.credly.com/badges/a6dae31d-b40d-46ba-a97a-a0f90b70c302" target="_blank">		
-  <img align="center" alt="LPIC3-304" height="100" width="100" src="https://diogofrj.files.wordpress.com/2020/07/lpic-3_304.jpg?w=1400&h=">
-	</a>
 <a href = "https://www.credly.com/badges/5c37c6b3-c407-4eb6-80ab-31448ff31080" target="_blank">		
   <img align="center" alt="Az-FUN" height="100" width="100" src="https://miro.medium.com/max/600/0*1CAzxuyWO_3vQ8sI.png">
 	</a>
@@ -54,8 +48,16 @@ BR  Rio de Janeiro - Rio de Janeiro.<br>
   <img align="center" alt="MCT" height="100" width="100" src="https://images.credly.com/size/340x340/images/c325c7c0-5fa6-4e59-be29-cd13c9417549/MCT-Microsoft_Certified_Trainer.png">
 	</a>
 </div>
+	
+<div style="display: inline_block">	
+	<a href = "https://www.credly.com/badges/a6dae31d-b40d-46ba-a97a-a0f90b70c302" target="_blank">	
+<img align="center" alt="VCP-DCV" height="100" width="100" src="https://images.credly.com/size/340x340/images/a5221adc-6edc-4145-a27c-8ec03466d8db/vmware_cert_VCPDCV2019.png">
+</a>
+<a href = "https://www.credly.com/badges/a6dae31d-b40d-46ba-a97a-a0f90b70c302" target="_blank">		
+  <img align="center" alt="LPIC3-304" height="100" width="100" src="https://diogofrj.files.wordpress.com/2020/07/lpic-3_304.jpg?w=1400&h=">
+	</a>
 
-
+</div>
 
 <hr>
 
