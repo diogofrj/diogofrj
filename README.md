@@ -28,8 +28,9 @@ BR  Rio de Janeiro - Rio de Janeiro.<br>
 
 
 ### :trophy:  Certifications
-	<hr>
+	
 <div style="display: inline_block">
+	<hr>
 <a href = "https://www.credly.com/badges/5c37c6b3-c407-4eb6-80ab-31448ff31080" target="_blank">		
   <img align="center" alt="Az-FUN" height="100" width="100" src="https://miro.medium.com/max/600/0*1CAzxuyWO_3vQ8sI.png">
 	</a>
