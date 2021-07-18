@@ -53,7 +53,7 @@ BR  Rio de Janeiro - Rio de Janeiro.<br>
 <hr>	
 <div style="display: inline_block">	
 	<a href = "https://cs.lpi.org/caf/Xamman/certification/verify/LPI000244279/ljpluebm4m" target="_blank">	
-		<img align="center" alt="LPIC-1" height="100" width="100" src="https://www.contrapunt.nl/cursus/images/LINUX/lpic1-logo-large.png">
+		<img align="center" alt="LPIC-1" height="100" width="100" src="https://www.guruteamirl.com/_fileupload/Image/Certification/Certification-311411343-lpic-1.jpg">
 	</a>
 	<a href = "https://cs.lpi.org/caf/Xamman/certification/verify/LPI000244279/ljpluebm4m" target="_blank">	
 		<img align="center" alt="LPIC-2" height="100" width="100" src="https://www.certificacaolinux.com.br/wp-content/uploads/2020/02/lpic2-novo.png">
