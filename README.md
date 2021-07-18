@@ -69,6 +69,6 @@ BR  Rio de Janeiro - Rio de Janeiro.<br>
 	</A>
 </div>	
 <hr>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogofernandesrj/)](https://www.linkedin.com/in/diogofernandesrj/)
+
 	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogofernandesrj/)](https://www.linkedin.com/in/diogofernandesrj/)
