@@ -18,7 +18,7 @@ BR  Rio de Janeiro - Rio de Janeiro.<br>
 ### 🛠 Tools:
 ![AZURE](https://img.shields.io/badge/-Microsoft%20Azure-2C6CFB?logo=MicrosoftAzure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=FFFFFF) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?&logo=ansible&logoColor=FFFFFF) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?&logo=terraform&logoColor=FFFFF) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=FFFFFF) ![Packer](https://img.shields.io/badge/-Packer-FFAE1A?&logo=packer&logoColor=FFFFFF) 
 
-### 📈 Stats  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           💡  Languages
+### 📈 Stats and 💡 Languages
 <div>
   <a href="https://github.com/diogofrj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogofrj&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
