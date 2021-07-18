@@ -28,6 +28,7 @@ BR  Rio de Janeiro - Rio de Janeiro.<br>
 
 
 ### :trophy:  Certifications
+	<hr>
 <div style="display: inline_block">
 <a href = "https://www.credly.com/badges/5c37c6b3-c407-4eb6-80ab-31448ff31080" target="_blank">		
   <img align="center" alt="Az-FUN" height="100" width="100" src="https://miro.medium.com/max/600/0*1CAzxuyWO_3vQ8sI.png">
@@ -59,6 +60,12 @@ BR  Rio de Janeiro - Rio de Janeiro.<br>
 
 </div>
 
+<hr>	
+<div style="display: inline_block">	
+	<a href = "https://www.credly.com/badges/a6dae31d-b40d-46ba-a97a-a0f90b70c302" target="_blank">	
+<img align="center" alt="VCP-DCV" height="100" width="100" src="https://images.credly.com/size/340x340/images/a5221adc-6edc-4145-a27c-8ec03466d8db/vmware_cert_VCPDCV2019.png">
+</div>	
+	
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogofernandesrj/)](https://www.linkedin.com/in/diogofernandesrj/)
