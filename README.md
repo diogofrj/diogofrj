@@ -7,7 +7,7 @@ Um pouco sobre mim:
 
 BR  Rio de Janeiro - Rio de Janeiro.<br>
 🔭 Atualmente, trabalho como Consultor em Microsoft Azure e Azure Virtual Desktop.<br>
-🌱 Atualmente, estou aprofundando meus conhecimentos conteudos relacionados a DevOps e Kubernetes.<br>
+🌱 Atualmente, estou aprofundando meus conhecimentos em conteudos relacionados a DevOps e Kubernetes.<br>
 📚 Autodidata<br>
 ⚡ Curiosidade: Ecoturismo é um dos meus hobbies.<br>
 <br>
