@@ -1,16 +1,24 @@
 <h1 align="center"> 
-	✅ Bem vindos ao meu GitHub 🚀
+	✅ Welcome to my GitHub 🚀
 </h1>
 
-Olá 👋<br>
-Um pouco sobre mim:
+<h6 align="left">Hi 👋, I'm Diogo Fernandes</h6>
+<h6 align="left">A little about me:</h6>
 
-🌎 Rio de Janeiro - Rio de Janeiro - 🇧🇷  <br>
-🔭 Atualmente, trabalho como Consultor em Microsoft Azure e Azure Virtual Desktop.<br>
-🌱 Atualmente, estou aprofundando meus conhecimentos em conteudos relacionados a DevOps e Kubernetes.<br>
-📚 Autodidata<br>
-⚡ Curiosidade: Ecoturismo é um dos meus hobbies.<br>
-<br>
+- 🌎 From: Rio de Janeiro - Rio de Janeiro - 🇧🇷  <br>
+- 🔭 I'm currently working with Microsoft Azure as a Migration Project Consultant and Azure Virtual Desktop<br>
+- 🌱 I’m currently learning **DevOps, Gitlab, Kubernetes, Docker**<br>
+- 📚 Self-taught<br>
+- ⚡ Fun fact: Ecotourism is one of my hobbies<br>
+- 📫 How to reach me **dfs@outlook.com.br**<br>
+
+<h6 align="left">Connect with me:</h>
+<p align="left">
+<a href="https://linkedin.com/in/diogofernandesrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/diogofrj/misc/main/images/Social/linked-in-alt.svg" alt="diogofernandesrj" height="30" width="40" /></a>
+<a href="https://twitter.com/diogofrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/diogofrj/misc/main/images/Social/twitter.svg" alt="diogofrj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCONmyXIjGdFisliEe1nAw7g" target="blank"><img align="center" src="https://raw.githubusercontent.com/diogofrj/misc/main/images/Social/youtube.svg" alt="uconmyxijgdfisliee1naw7g" height="30" width="40" /></a>
+<a href="https://github.com/diogofrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/diogofrj/misc/main/images/Social/github.svg" alt="uconmyxijgdfisliee1naw7g" height="30" width="40" /></a>
+</p><br>
 
 ### ⚡ Skills:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=000000) ![Windows](https://img.shields.io/badge/-Windows-204E87?&logo=windows&logoColor=3C93FF) ![PowerShell](https://img.shields.io/badge/-PowerShell-blue?&logo=powershell&logoColor=FFFFFF) ![ShellScript](https://img.shields.io/badge/-ShellScript-4EAA25?&logo=gnu%20bash&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
@@ -18,7 +26,7 @@ Um pouco sobre mim:
 ### 🛠 Tools:
 ![AZURE](https://img.shields.io/badge/-Microsoft%20Azure-2C6CFB?logo=MicrosoftAzure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=FFFFFF) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?&logo=ansible&logoColor=FFFFFF) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?&logo=terraform&logoColor=FFFFF) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=FFFFFF) ![Packer](https://img.shields.io/badge/-Packer-FFAE1A?&logo=packer&logoColor=FFFFFF) 
 
-### 📈 Stats and 💡 Languages
+### 📈 Stats and Languages
 <div>
   <a href="https://github.com/diogofrj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogofrj&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -70,5 +78,3 @@ Um pouco sobre mim:
 </div>	
 <hr>
 
-	
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogofernandesrj/)](https://www.linkedin.com/in/diogofernandesrj/)
