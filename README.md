@@ -78,3 +78,11 @@
 </div>	
 <hr>
 
+<p align="center"> 
+
+ ### :detective: Total Profile Views  <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/diogofrj/count.svg" />
+ </p>
+
+</p>
