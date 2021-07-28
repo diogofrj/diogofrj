@@ -16,10 +16,16 @@
 ### 🎵 Enjoy my playlist 🤘
 
 
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+	  
+&nbsp; <br> [![Spotify playing](http://spotify.aio-api.ml/spotify?id=21at5vad4efcy2cvlkneiqqai&theme=wavy&image=true&color_theme=algolia&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false&display_timer=false)](https://open.spotify.com/embed/playlist/3yDue65dyE4hJu0SLNL6AS)
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/3yDue65dyE4hJu0SLNL6AS)
-
-<hr>
+</td>
+  <td width="50%">	  
+	  
+	  
 
 <h6 align="left">Connect with me:</h>
 <p align="left">
@@ -27,7 +33,10 @@
 <a href="https://twitter.com/diogofrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/diogofrj/misc/main/images/Social/twitter.svg" alt="diogofrj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCONmyXIjGdFisliEe1nAw7g" target="blank"><img align="center" src="https://raw.githubusercontent.com/diogofrj/misc/main/images/Social/youtube.svg" alt="uconmyxijgdfisliee1naw7g" height="30" width="40" /></a>
 <a href="https://github.com/diogofrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/diogofrj/misc/main/images/Social/github.svg" alt="uconmyxijgdfisliee1naw7g" height="30" width="40" /></a>
-</p><br>
+</p>
+	  
+</td>
+  </table>	  
 
 ### ⚡ Skills:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=000000) ![Windows](https://img.shields.io/badge/-Windows-204E87?&logo=windows&logoColor=3C93FF) ![PowerShell](https://img.shields.io/badge/-PowerShell-blue?&logo=powershell&logoColor=FFFFFF) ![ShellScript](https://img.shields.io/badge/-ShellScript-4EAA25?&logo=gnu%20bash&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
