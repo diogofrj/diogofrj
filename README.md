@@ -11,6 +11,15 @@
 - 📚 Self-taught<br>
 - ⚡ Fun fact: Ecotourism is one of my hobbies<br>
 - 📫 How to reach me **dfs@outlook.com.br**<br>
+<hr>
+
+### 🎵 Enjoy my playlist 🤘
+
+
+
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/21at5vad4efcy2cvlkneiqqai?si=2ade3a5f6bc24804)
+
+<hr>
 
 <h6 align="left">Connect with me:</h>
 <p align="left">
