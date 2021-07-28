@@ -17,7 +17,7 @@
 
 
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/21at5vad4efcy2cvlkneiqqai?si=2ade3a5f6bc24804)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/3yDue65dyE4hJu0SLNL6AS)
 
 <hr>
 
