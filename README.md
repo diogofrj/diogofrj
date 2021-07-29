@@ -11,18 +11,6 @@
 - 📚 Self-taught<br>
 - ⚡ Fun fact: Ecotourism is one of my hobbies<br>
 - 📫 How to reach me **dfs@outlook.com.br**<br>
-<hr>
-
-
-
-
-
-	  ### 🎵 Enjoy my playlist 🤘
-&nbsp; <br> [![Spotify playing](http://spotify.aio-api.ml/spotify?id=21at5vad4efcy2cvlkneiqqai&theme=wavy&image=true&color_theme=algolia&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false&display_timer=false)](https://open.spotify.com/embed/playlist/3yDue65dyE4hJu0SLNL6AS)
-
-
-	  
-	  
 
 <h6 align="left">Connect with me:</h>
 <p align="left">
@@ -31,6 +19,21 @@
 <a href="https://www.youtube.com/channel/UCONmyXIjGdFisliEe1nAw7g" target="blank"><img align="center" src="https://raw.githubusercontent.com/diogofrj/misc/main/images/Social/youtube.svg" alt="uconmyxijgdfisliee1naw7g" height="30" width="40" /></a>
 <a href="https://github.com/diogofrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/diogofrj/misc/main/images/Social/github.svg" alt="uconmyxijgdfisliee1naw7g" height="30" width="40" /></a>
 </p>
+
+<hr>
+
+
+
+
+
+### 🎵 Enjoy my playlist 🤘
+&nbsp; <br> [![Spotify playing](http://spotify.aio-api.ml/spotify?id=21at5vad4efcy2cvlkneiqqai&theme=wavy&image=true&color_theme=algolia&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false&display_timer=false)](https://open.spotify.com/embed/playlist/3yDue65dyE4hJu0SLNL6AS)
+
+
+	  
+	  
+
+
 	  
  
 
