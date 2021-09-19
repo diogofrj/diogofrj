@@ -62,8 +62,8 @@
 <a href = "https://www.credly.com/badges/fb3a3615-795f-4089-8354-f87a026875f8" target="_blank">		
   <img align="center" alt="AZ-140" height="100" width="100" src="https://images.credly.com/size/340x340/images/ea009208-e2d6-432e-bbf6-d34d28b0835f/azure-virtual-desktop-specialty-600x600.png">
 	</a>
-<a href = "https://www.credly.com/badges/575aa651-5b23-4019-b777-85ce8d1ca9c6" target="_blank">		
-  <img align="center" alt="MCT" height="100" width="100" src="https://images.credly.com/size/340x340/images/c325c7c0-5fa6-4e59-be29-cd13c9417549/MCT-Microsoft_Certified_Trainer.png">
+<a href = "https://www.credly.com/badges/2a1459dc-122d-4462-9e1e-ad6d08404080" target="_blank">		
+  <img align="center" alt="MCT" height="100" width="100" src="https://images.credly.com/size/340x340/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png">
 	</a>
 </div>
 <hr>	
