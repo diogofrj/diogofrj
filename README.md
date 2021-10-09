@@ -66,7 +66,17 @@
   <img align="center" alt="MCT" height="100" width="100" src="https://images.credly.com/size/340x340/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png">
 	</a>
 </div>
+	
+<hr>
+
+<div style="display: inline_block">
+
+<a href = "https://www.credly.com/earner/earned/badge/242e04dc-111a-44ff-8167-cf988996d040" target="_blank">		
+  <img align="center" alt="AZ-900" height="100" width="100" src="https://github.com/diogofrj/misc/blob/main/images/Devops/NKh8SoKIJ.png">
+	</a>
+<p align="center"> 
 <hr>	
+
 <div style="display: inline_block">	
 	<a href = "https://cs.lpi.org/caf/Xamman/certification/verify/LPI000244279/ljpluebm4m" target="_blank">	
 		<img align="center" alt="LPIC-1" height="100" width="100" src="https://www.guruteamirl.com/_fileupload/Image/Certification/Certification-311411343-lpic-1.jpg">
@@ -77,21 +87,10 @@
 	<a href = "https://cs.lpi.org/caf/Xamman/certification/verify/LPI000244279/ljpluebm4m" target="_blank">		
   		<img align="center" alt="LPIC3-304" height="100" width="100" src="https://diogofrj.files.wordpress.com/2020/07/lpic-3_304.jpg?w=1400&h=">
 	</a>
-</div>
-<hr>	
-<div style="display: inline_block">	
 	<a href = "https://www.credly.com/badges/a6dae31d-b40d-46ba-a97a-a0f90b70c302" target="_blank">	
 		<img align="center" alt="VCP-DCV" height="100" width="100" src="https://images.credly.com/size/340x340/images/a5221adc-6edc-4145-a27c-8ec03466d8db/vmware_cert_VCPDCV2019.png">
 	</A>
 </div>	
-<hr>
-
-<div style="display: inline_block">
-
-<a href = "https://www.credly.com/earner/earned/badge/242e04dc-111a-44ff-8167-cf988996d040" target="_blank">		
-  <img align="center" alt="AZ-900" height="100" width="100" src="https://images.credly.com/size/340x340/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png">
-	</a>
-<p align="center"> 
 <hr>
 
 ### :detective: Total Profile Views  <br>
