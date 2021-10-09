@@ -86,8 +86,6 @@
 </div>	
 <hr>
 
-### :trophy:  DevOps
-	
 <div style="display: inline_block">
 
 <a href = "https://www.credly.com/earner/earned/badge/242e04dc-111a-44ff-8167-cf988996d040" target="_blank">		
