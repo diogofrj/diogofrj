@@ -86,12 +86,12 @@
 </div>	
 <hr>
 
-### :trophy:  Other Training Badges
+### :trophy:  DevOps
 	
 <div style="display: inline_block">
 
-<a href = "https://www.credly.com/badges/63aba421-8c2b-469c-8640-aeeff26c6fe9" target="_blank">		
-  <img align="center" alt="AZ-900" height="100" width="100" src="https://images.credly.com/size/340x340/images/466bf45d-c48d-46c3-a613-fd950d1dd9f9/Foundations_of_MITRE_ATT_CK_Badge.png">
+<a href = "https://www.credly.com/earner/earned/badge/242e04dc-111a-44ff-8167-cf988996d040" target="_blank">		
+  <img align="center" alt="AZ-900" height="100" width="100" src="https://images.credly.com/size/340x340/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png">
 	</a>
 <p align="center"> 
 <hr>
