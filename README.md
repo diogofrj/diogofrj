@@ -71,12 +71,23 @@
 
 <div style="display: inline_block">
 
-<a href = "https://www.credly.com/earner/earned/badge/242e04dc-111a-44ff-8167-cf988996d040" target="_blank">		
-  <img align="center" alt="AZ-900" height="100" width="100" src="https://github.com/diogofrj/misc/blob/main/images/Devops/NKh8SoKIJ.png">
+<a href = "https://catalog-education.oracle.com/pls/certview/sharebadge?id=054DAADCE7A3309CAB2CCF8CA1CD028FEE2D74AE7B0E30E3F0ADF4671D554A94" target="_blank">		
+  <img align="center" alt="AZ-900" height="100" width="100" src="https://github.com/diogofrj/misc/blob/main/images/50_Oracle_Cloud_Infrastructure.jpg">
 	</a>
 <p align="center"> 
 <hr>	
 
+
+
+<div style="display: inline_block">
+
+<a href = "https://www.credly.com/badges/242e04dc-111a-44ff-8167-cf988996d040" target="_blank">		
+  <img align="center" alt="AZ-900" height="100" width="100" src="https://github.com/diogofrj/misc/blob/main/images/Devops/NKh8SoKIJ.png">
+	</a>
+<p align="center"> 
+<hr>	
+	
+	
 <div style="display: inline_block">	
 	<a href = "https://cs.lpi.org/caf/Xamman/certification/verify/LPI000244279/ljpluebm4m" target="_blank">	
 		<img align="center" alt="LPIC-1" height="100" width="100" src="https://www.guruteamirl.com/_fileupload/Image/Certification/Certification-311411343-lpic-1.jpg">
