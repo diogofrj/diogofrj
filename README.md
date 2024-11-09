@@ -23,7 +23,7 @@
 
 ### 🎵 Enjoy my playlist 🤘
 
-[![Spotify playing](http://spotify.aio-api.ml/spotify?id=21at5vad4efcy2cvlkneiqqai&theme=wavy&image=true&color_theme=algolia&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false&display_timer=false)](https://open.spotify.com/embed/playlist/3yDue65dyE4hJu0SLNL6AS)
+[![Spotify playing](http://spotify.aio-api.ml/spotify?id=861dd0ff0c364c79a0ae1c4e6113da54&theme=wavy&image=true&color_theme=algolia&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false&display_timer=false)](https://open.spotify.com/embed/playlist/3yDue65dyE4hJu0SLNL6AS)
 
 ### ⚡ Skills
 
