@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="334" viewBox="0 0 560 334" role="img" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+<title>About diogo</title>
+<style>@keyframes line{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:translateX(0)}}.l{animation:line 0.4s ease-out both}</style>
+<rect x="0.5" y="0.5" width="559" height="333" rx="10" fill="#0d1117" stroke="#30363d"/>
+<line x1="0" y1="34" x2="560" y2="34" stroke="#30363d"/>
+<circle cx="24" cy="17" r="5" fill="#ff5f56"/>
+<circle cx="40" cy="17" r="5" fill="#ffbd2e"/>
+<circle cx="56" cy="17" r="5" fill="#27c93f"/>
+<text x="280" y="21" fill="#8b949e" font-size="12" text-anchor="middle">diogo@github: ~</text>
+<g class="l" style="animation-delay:0s"><text x="24" y="68" fill="#3fb950">$ neofetch</text></g>
+<g class="l" style="animation-delay:0.18s"><text x="24" y="92" fill="#58a6ff" font-weight="bold">Name</text><text x="110" y="92" fill="#c9d1d9">Diogo Fernandes</text></g>
+<g class="l" style="animation-delay:0.36s"><text x="24" y="116" fill="#58a6ff" font-weight="bold">Role</text><text x="110" y="116" fill="#c9d1d9">DevOps / DevSecOps Engineer</text></g>
+<g class="l" style="animation-delay:0.54s"><text x="24" y="140" fill="#58a6ff" font-weight="bold">From</text><text x="110" y="140" fill="#c9d1d9">Rio de Janeiro, Brazil</text></g>
+<g class="l" style="animation-delay:0.72s"><text x="24" y="164" fill="#58a6ff" font-weight="bold">Stack</text><text x="110" y="164" fill="#c9d1d9">Azure · AKS · Kubernetes · Terraform</text></g>
+<g class="l" style="animation-delay:0.90s"><text x="24" y="188" fill="#58a6ff" font-weight="bold">Tooling</text><text x="110" y="188" fill="#c9d1d9">Docker · Ansible · Packer · PowerShell · Bash</text></g>
+<g class="l" style="animation-delay:1.08s"><text x="24" y="212" fill="#58a6ff" font-weight="bold">Azure</text><text x="110" y="212" fill="#c9d1d9">AZ-900/104/140/305/500 · DP-900 · SC-900</text></g>
+<g class="l" style="animation-delay:1.26s"><text x="24" y="236" fill="#58a6ff" font-weight="bold">Other</text><text x="110" y="236" fill="#c9d1d9">LPIC-1/2/3 · Terraform · OCI · VCP-DCV · MCT</text></g>
+<g class="l" style="animation-delay:1.44s"><text x="24" y="260" fill="#58a6ff" font-weight="bold">Learning</text><text x="110" y="260" fill="#c9d1d9">AI agents · MCP servers</text></g>
+<g class="l" style="animation-delay:1.62s"><text x="24" y="284" fill="#58a6ff" font-weight="bold">Path</text><text x="110" y="284" fill="#c9d1d9">Self-taught</text></g>
+<g class="l" style="animation-delay:1.80s"><text x="24" y="308" fill="#58a6ff" font-weight="bold">Hobby</text><text x="110" y="308" fill="#c9d1d9">Ecotourism</text></g>
+</svg>
