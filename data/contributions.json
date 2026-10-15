@@ -1,8 +1,8 @@
 {
   "username": "diogofrj",
-  "total_contributions": 77,
-  "active_days": 22,
-  "longest_streak": 6,
+  "total_contributions": 85,
+  "active_days": 23,
+  "longest_streak": 7,
   "days": [
     {
       "date": "2025-10-12",
@@ -17,7 +17,7 @@
     {
       "date": "2025-10-14",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2025-10-15",
@@ -1152,7 +1152,7 @@
     {
       "date": "2026-05-29",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-05-30",
@@ -1212,17 +1212,17 @@
     {
       "date": "2026-06-10",
       "count": 2,
-      "level": 3
+      "level": 1
     },
     {
       "date": "2026-06-11",
       "count": 2,
-      "level": 3
+      "level": 1
     },
     {
       "date": "2026-06-12",
       "count": 2,
-      "level": 3
+      "level": 1
     },
     {
       "date": "2026-06-13",
@@ -1302,7 +1302,7 @@
     {
       "date": "2026-06-28",
       "count": 2,
-      "level": 3
+      "level": 1
     },
     {
       "date": "2026-06-29",
@@ -1342,7 +1342,7 @@
     {
       "date": "2026-07-06",
       "count": 2,
-      "level": 3
+      "level": 1
     },
     {
       "date": "2026-07-07",
@@ -1612,7 +1612,7 @@
     {
       "date": "2026-08-29",
       "count": 2,
-      "level": 3
+      "level": 1
     },
     {
       "date": "2026-08-30",
@@ -1657,7 +1657,7 @@
     {
       "date": "2026-09-07",
       "count": 3,
-      "level": 4
+      "level": 2
     },
     {
       "date": "2026-09-08",
@@ -1722,7 +1722,7 @@
     {
       "date": "2026-09-20",
       "count": 3,
-      "level": 4
+      "level": 2
     },
     {
       "date": "2026-09-21",
@@ -1767,17 +1767,17 @@
     {
       "date": "2026-09-29",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-09-30",
       "count": 3,
-      "level": 4
+      "level": 2
     },
     {
       "date": "2026-10-01",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-10-02",
@@ -1812,35 +1812,40 @@
     {
       "date": "2026-10-08",
       "count": 2,
-      "level": 3
+      "level": 1
     },
     {
       "date": "2026-10-09",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-10-10",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-10-11",
       "count": 2,
-      "level": 3
+      "level": 1
     },
     {
       "date": "2026-10-12",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-10-13",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-10-14",
+      "count": 8,
+      "level": 4
+    },
+    {
+      "date": "2026-10-15",
       "count": 0,
       "level": 0
     }
