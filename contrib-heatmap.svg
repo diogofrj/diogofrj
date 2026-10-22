@@ -389,9 +389,10 @@
 <rect class="c" style="animation-delay:0.936s" x="832" y="56" width="12" height="12" rx="2" fill="#0e4429"/>
 <rect class="c" style="animation-delay:0.976s" x="832" y="71" width="12" height="12" rx="2" fill="#0e4429"/>
 <rect class="c" style="animation-delay:1.016s" x="832" y="86" width="12" height="12" rx="2" fill="#0e4429"/>
-<rect class="c" style="animation-delay:1.056s" x="832" y="101" width="12" height="12" rx="2" fill="#161b22"/>
-<text x="22" y="182" fill="#c9d1d9" font-size="12">91 contributions in the last year</text>
-<text x="22" y="200" fill="#8b949e" font-size="11">28 active days · longest streak 13 days</text>
+<rect class="c" style="animation-delay:1.056s" x="832" y="101" width="12" height="12" rx="2" fill="#0e4429"/>
+<rect class="c" style="animation-delay:1.096s" x="832" y="116" width="12" height="12" rx="2" fill="#161b22"/>
+<text x="22" y="182" fill="#c9d1d9" font-size="12">92 contributions in the last year</text>
+<text x="22" y="200" fill="#8b949e" font-size="11">29 active days · longest streak 14 days</text>
 <text x="704" y="183" fill="#8b949e" font-size="10">Less</text>
 <rect x="738" y="172" width="12" height="12" rx="2" fill="#161b22"/>
 <rect x="753" y="172" width="12" height="12" rx="2" fill="#0e4429"/>
