@@ -1,44 +1,9 @@
 {
   "username": "diogofrj",
-  "total_contributions": 110,
-  "active_days": 45,
-  "longest_streak": 30,
+  "total_contributions": 118,
+  "active_days": 46,
+  "longest_streak": 31,
   "days": [
-    {
-      "date": "2025-11-02",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-04",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-05",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-06",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-07",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-08",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-09",
       "count": 0,
@@ -1856,6 +1821,11 @@
     },
     {
       "date": "2026-11-07",
+      "count": 8,
+      "level": 4
+    },
+    {
+      "date": "2026-11-08",
       "count": 0,
       "level": 0
     }
