@@ -1,8 +1,8 @@
 {
   "username": "diogofrj",
-  "total_contributions": 124,
-  "active_days": 50,
-  "longest_streak": 35,
+  "total_contributions": 125,
+  "active_days": 51,
+  "longest_streak": 36,
   "days": [
     {
       "date": "2025-11-09",
@@ -1846,6 +1846,11 @@
     },
     {
       "date": "2026-11-12",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-13",
       "count": 0,
       "level": 0
     }
